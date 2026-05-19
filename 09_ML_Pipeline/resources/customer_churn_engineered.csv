@@ -1,0 +1,101 @@
+customer_id,age,tenure_months,monthly_spend,num_products,num_support_tickets,last_login_days_ago,contract_type,payment_method,region,spend_per_product,support_ticket_rate,engagement_score,high_risk_flag,is_annual,spend_tier,tenure_group,churned
+C001,34,12,125.50,2,3,5,Monthly,Credit Card,North,62.75,0.250,0.972,0,0,Low,New,1
+C002,28,48,350.00,5,1,2,Annual,Bank Transfer,South,70.00,0.021,0.989,0,1,High,Mature,0
+C003,45,6,85.75,1,8,45,Monthly,PayPal,East,85.75,1.333,0.750,0,0,Low,New,1
+C004,31,36,220.00,3,2,8,Annual,Credit Card,West,73.33,0.056,0.956,0,1,Mid,Growing,0
+C005,52,60,450.00,5,0,1,Annual,Bank Transfer,North,90.00,0.000,0.994,0,1,High,Mature,0
+C006,27,3,95.00,2,5,60,Monthly,Credit Card,South,47.50,1.667,0.667,1,0,Low,New,1
+C007,39,24,175.50,3,1,3,Annual,PayPal,East,58.50,0.042,0.983,0,1,Mid,Growing,0
+C008,41,15,135.25,2,6,25,Monthly,Credit Card,West,67.63,0.400,0.861,0,0,Low,New,1
+C009,33,42,380.00,5,1,4,Annual,Bank Transfer,North,76.00,0.024,0.978,0,1,High,Mature,0
+C010,29,5,120.00,2,7,55,Monthly,PayPal,South,60.00,1.400,0.694,1,0,Low,New,1
+C011,47,54,420.75,4,0,2,Annual,Credit Card,East,105.19,0.000,0.989,0,1,High,Mature,0
+C012,36,18,155.00,3,4,35,Monthly,Bank Transfer,West,51.67,0.222,0.806,0,0,Low,New,1
+C013,25,8,110.50,2,6,50,Monthly,Credit Card,North,55.25,0.750,0.722,1,0,Low,New,1
+C014,44,38,290.00,4,1,6,Annual,PayPal,South,72.50,0.026,0.967,0,1,High,Growing,0
+C015,50,58,480.00,5,1,3,Annual,Bank Transfer,East,96.00,0.017,0.983,0,1,High,Mature,0
+C016,30,10,130.00,2,5,70,Monthly,Credit Card,West,65.00,0.500,0.611,1,0,Low,New,1
+C017,38,28,200.50,3,2,15,Annual,Bank Transfer,North,66.83,0.071,0.917,0,1,Mid,Growing,0
+C018,26,4,100.00,1,8,65,Monthly,PayPal,South,100.00,2.000,0.639,1,0,Low,New,1
+C019,43,44,360.00,5,1,5,Annual,Credit Card,East,72.00,0.023,0.972,0,1,High,Mature,0
+C020,32,20,165.75,3,3,20,Monthly,Bank Transfer,West,55.25,0.150,0.889,0,0,Mid,Growing,1
+C021,48,56,440.00,5,0,4,Annual,PayPal,North,88.00,0.000,0.978,0,1,High,Mature,0
+C022,27,7,105.50,2,7,48,Monthly,Credit Card,South,52.75,1.000,0.733,0,0,Low,New,1
+C023,37,32,250.00,4,2,10,Annual,Bank Transfer,East,62.50,0.063,0.944,0,1,Mid,Growing,0
+C024,46,22,180.25,3,4,40,Monthly,Credit Card,West,60.08,0.182,0.778,0,0,Low,Growing,1
+C025,35,40,320.00,4,1,7,Annual,PayPal,South,80.00,0.025,0.961,0,1,High,Mature,0
+C026,29,9,115.00,2,6,55,Monthly,Bank Transfer,North,57.50,0.667,0.694,1,0,Low,New,1
+C027,40,50,400.00,5,0,2,Annual,Credit Card,East,80.00,0.000,0.989,0,1,High,Mature,0
+C028,51,14,140.50,2,5,32,Monthly,PayPal,West,70.25,0.357,0.822,0,0,Low,New,1
+C029,33,26,210.00,3,3,18,Annual,Bank Transfer,North,70.00,0.115,0.900,0,1,Mid,Growing,0
+C030,28,2,90.75,1,9,80,Monthly,Credit Card,South,90.75,4.500,0.556,1,0,Low,New,1
+C031,42,46,370.00,5,1,6,Annual,Bank Transfer,East,74.00,0.022,0.967,0,1,High,Mature,0
+C032,38,19,160.00,3,4,28,Monthly,PayPal,West,53.33,0.211,0.844,0,0,Low,Growing,1
+C033,25,6,98.50,2,7,52,Monthly,Credit Card,North,49.25,1.167,0.711,1,0,Low,New,1
+C034,49,41,310.00,4,1,9,Annual,Credit Card,South,77.50,0.024,0.956,0,1,High,Mature,0
+C035,44,59,470.00,5,0,2,Annual,Bank Transfer,East,94.00,0.000,0.989,0,1,High,Mature,0
+C036,30,11,125.75,2,6,62,Monthly,PayPal,West,62.88,0.545,0.656,1,0,Low,New,1
+C037,39,30,235.00,3,2,12,Annual,Credit Card,North,78.33,0.067,0.933,0,1,Mid,Growing,0
+C038,27,8,108.00,2,8,58,Monthly,Bank Transfer,South,54.00,1.000,0.678,1,0,Low,New,1
+C039,45,43,340.00,4,1,8,Annual,PayPal,East,85.00,0.023,0.956,0,1,High,Mature,0
+C040,32,17,145.25,2,5,38,Monthly,Credit Card,West,72.63,0.294,0.789,0,0,Low,Growing,1
+C041,50,52,410.00,5,0,3,Annual,Credit Card,North,82.00,0.000,0.983,0,1,High,Mature,0
+C042,26,4,92.50,1,8,75,Monthly,PayPal,South,92.50,2.000,0.583,1,0,Low,New,1
+C043,36,29,215.50,3,3,14,Annual,Bank Transfer,East,71.83,0.103,0.922,0,1,Mid,Growing,0
+C044,41,21,175.00,3,4,42,Monthly,Credit Card,West,58.33,0.190,0.767,0,0,Low,Growing,1
+C045,34,37,305.00,4,2,11,Annual,PayPal,South,76.25,0.054,0.939,0,1,High,Mature,0
+C046,28,10,120.00,2,6,60,Monthly,Bank Transfer,North,60.00,0.600,0.667,1,0,Low,New,1
+C047,43,48,385.00,5,1,4,Annual,Credit Card,East,77.00,0.021,0.978,0,1,High,Mature,0
+C048,37,13,135.50,2,5,45,Monthly,PayPal,West,67.75,0.385,0.750,0,0,Low,New,1
+C049,25,5,102.00,2,7,54,Monthly,Credit Card,North,51.00,1.400,0.700,1,0,Low,New,1
+C050,46,44,355.00,4,1,7,Annual,Bank Transfer,South,88.75,0.023,0.961,0,1,High,Mature,0
+C051,40,35,260.00,3,2,16,Annual,Credit Card,East,86.67,0.057,0.911,0,1,Mid,Growing,0
+C052,31,16,150.75,2,4,30,Monthly,PayPal,West,75.38,0.250,0.833,0,0,Low,Growing,1
+C053,52,55,430.00,5,0,2,Annual,Bank Transfer,North,86.00,0.000,0.989,0,1,High,Mature,0
+C054,27,9,112.50,2,7,50,Monthly,Credit Card,South,56.25,0.778,0.722,1,0,Low,New,1
+C055,38,25,195.00,3,3,19,Annual,PayPal,East,65.00,0.120,0.894,0,1,Mid,Growing,0
+C056,44,39,300.00,4,1,10,Annual,Credit Card,West,75.00,0.026,0.949,0,1,High,Mature,0
+C057,33,18,155.00,3,5,35,Monthly,Bank Transfer,North,51.67,0.278,0.806,0,0,Low,Growing,1
+C058,29,7,105.00,2,8,56,Monthly,PayPal,South,52.50,1.143,0.689,1,0,Low,New,1
+C059,47,49,390.00,5,1,3,Annual,Credit Card,East,78.00,0.020,0.983,0,1,High,Mature,0
+C060,42,20,170.25,3,4,38,Monthly,Bank Transfer,West,56.75,0.200,0.789,0,0,Low,Growing,1
+C061,36,34,275.00,3,2,13,Annual,PayPal,North,91.67,0.059,0.928,0,1,Mid,Growing,0
+C062,26,6,100.50,1,8,70,Monthly,Credit Card,South,100.50,1.333,0.611,1,0,Low,New,1
+C063,39,27,205.50,3,3,17,Annual,Bank Transfer,East,68.50,0.111,0.906,0,1,Mid,Growing,0
+C064,50,51,420.00,5,0,4,Annual,Credit Card,West,84.00,0.000,0.978,0,1,High,Mature,0
+C065,35,15,140.00,2,5,40,Monthly,PayPal,North,70.00,0.333,0.778,0,0,Low,Growing,1
+C066,28,11,125.50,2,6,58,Monthly,Bank Transfer,South,62.75,0.545,0.678,1,0,Low,New,1
+C067,41,45,350.00,4,1,6,Annual,Credit Card,East,87.50,0.022,0.967,0,1,High,Mature,0
+C068,46,8,118.00,2,7,48,Monthly,PayPal,West,59.00,0.875,0.733,0,0,Low,New,1
+C069,32,31,240.00,3,2,15,Annual,Bank Transfer,North,80.00,0.065,0.917,0,1,Mid,Growing,0
+C070,25,4,95.75,1,9,78,Monthly,Credit Card,South,95.75,2.250,0.567,1,0,Low,New,1
+C071,43,47,375.00,5,1,5,Annual,PayPal,East,75.00,0.021,0.972,0,1,High,Mature,0
+C072,37,14,145.50,2,5,42,Monthly,Credit Card,West,72.75,0.357,0.767,0,0,Low,New,1
+C073,49,40,315.00,4,1,8,Annual,Bank Transfer,North,78.75,0.025,0.956,0,1,High,Mature,0
+C074,38,23,185.00,3,4,32,Monthly,PayPal,South,61.67,0.174,0.822,0,0,Low,Growing,1
+C075,27,9,110.00,2,7,52,Monthly,Credit Card,East,55.00,0.778,0.711,1,0,Low,New,1
+C076,44,52,425.00,5,0,3,Annual,Credit Card,West,85.00,0.000,0.983,0,1,High,Mature,0
+C077,30,12,130.00,2,5,60,Monthly,Bank Transfer,North,65.00,0.417,0.667,1,0,Low,New,1
+C078,40,33,255.00,3,2,14,Annual,PayPal,South,85.00,0.061,0.922,0,1,Mid,Growing,0
+C079,51,19,165.75,3,4,36,Monthly,Credit Card,East,55.25,0.211,0.800,0,0,Low,Growing,1
+C080,34,42,330.00,4,1,9,Annual,Bank Transfer,West,82.50,0.024,0.949,0,1,High,Mature,0
+C081,26,5,98.00,2,8,64,Monthly,PayPal,North,49.00,1.600,0.644,1,0,Low,New,1
+C082,39,26,200.00,3,3,18,Annual,Credit Card,South,66.67,0.115,0.900,0,1,Mid,Growing,0
+C083,45,50,405.00,5,0,2,Annual,Bank Transfer,East,81.00,0.000,0.989,0,1,High,Mature,0
+C084,33,16,150.00,2,5,38,Monthly,Credit Card,West,75.00,0.313,0.789,0,0,Low,Growing,1
+C085,29,10,120.50,2,6,56,Monthly,PayPal,North,60.25,0.600,0.689,1,0,Low,New,1
+C086,42,36,280.00,3,2,12,Annual,Bank Transfer,South,93.33,0.056,0.933,0,1,Mid,Growing,0
+C087,35,24,190.00,3,4,28,Monthly,Credit Card,East,63.33,0.167,0.844,0,0,Low,Growing,1
+C088,48,53,435.00,5,1,4,Annual,PayPal,West,87.00,0.019,0.978,0,1,High,Mature,0
+C089,37,20,170.50,3,4,34,Monthly,Bank Transfer,North,56.83,0.200,0.811,0,0,Low,Growing,1
+C090,25,7,108.50,2,7,50,Monthly,Credit Card,South,54.25,1.000,0.722,1,0,Low,New,1
+C091,46,43,340.00,4,1,7,Annual,Credit Card,East,85.00,0.023,0.961,0,1,High,Mature,0
+C092,31,13,135.00,2,5,44,Monthly,PayPal,West,67.50,0.385,0.756,0,0,Low,New,1
+C093,50,54,440.00,5,0,3,Annual,Bank Transfer,North,88.00,0.000,0.983,0,1,High,Mature,0
+C094,27,8,105.00,2,8,54,Monthly,Credit Card,South,52.50,1.000,0.700,1,0,Low,New,1
+C095,41,28,210.00,3,3,16,Annual,PayPal,East,70.00,0.107,0.911,0,1,Mid,Growing,0
+C096,38,17,155.50,2,5,40,Monthly,Bank Transfer,West,77.75,0.294,0.778,0,0,Low,Growing,1
+C097,44,37,295.00,4,1,10,Annual,Credit Card,North,73.75,0.027,0.949,0,1,High,Mature,0
+C098,32,21,175.75,3,4,36,Monthly,PayPal,South,58.58,0.190,0.800,0,0,Low,Growing,1
+C099,28,9,112.00,2,7,52,Monthly,Credit Card,East,56.00,0.778,0.711,1,0,Low,New,1
+C100,43,44,345.00,4,1,8,Annual,Bank Transfer,West,86.25,0.023,0.956,0,1,High,Mature,0

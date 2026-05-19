@@ -1,0 +1,101 @@
+CustomerID,customer_name,Email,Phone,signup_date,Annual_Revenue,Country,Age,is_active
+CUST001,john smith,john.smith@email.com,555-1234,2024-01-15,$45000,US,32,Yes
+CUST002,JANE DOE,jane.doe@example.org,(555) 123-4567,01/15/2024,$78000,USA,28,1
+CUST003,John Smith,john.smith@email.com,5551234567,January 15 2024,$45000,United States,32,TRUE
+CUST004,bob johnson,bob@invalid@email.com,555-0987,2024-02-20,$120000,US,45,No
+CUST005,Alice Williams,alice.w@domain.com,(555) 098-7654,02/20/2024,98500,US,29,0
+CUST006,ALICE WILLIAMS,alice.w@domain.com,5550987654,2024-02-20,98500,USA,29,FALSE
+CUST007,charlie brown,,555-5678,2024-03-10,$67000,United States,35,Yes
+CUST008,Charlie Brown,charlie.b@mail.net,(555) 567-8901,03/10/2024,67000,US,35,1
+CUST009,diana prince,diana@email.co.uk,5555678901,March 10 2024,$156000,UK,41,True
+CUST010,DIANA PRINCE,diana@email.co.uk,555-5678,2024-03-10,156000,US,-5,0
+CUST011,evan hunt,evan@example.com,(555) 234-5678,2024-04-05,$89500,US,27,YES
+CUST012,Evan Hunt,evan@example.com,5552345678,04/05/2024,89500,USA,27,1
+CUST013,fiona green,fiona.green@email.net,555-3456,2024-04-15,$52000,United States,33,No
+CUST014,FIONA GREEN,fiona.green@email.net,(555) 345-6789,04/15/2024,52000,US,33,FALSE
+CUST015,george martin,george@invalid..com,5553456789,April 15 2024,,US,150,True
+CUST016,George Martin,,555-2345,2024-05-01,$195000,USA,58,0
+CUST017,hannah davis,hannah.d@email.org,(555) 234-5678,05/01/2024,74000,United States,31,1
+CUST018,HANNAH DAVIS,hannah.d@email.org,5552345678,2024-05-01,$74000,US,31,YES
+CUST019,ian cooper,ian@email.com,555-8901,May 01 2024,$61500,US,26,No
+CUST020,Ian Cooper,ian@email.com,(555) 890-1234,2024-05-15,61500,USA,26,FALSE
+CUST021,julia lee,julia@example.net,5558901234,05/15/2024,$$105000,United States,39,true
+CUST022,JULIA LEE,,555-9012,2024-05-15,105000,US,39,1
+CUST023,kevin white,kevin.w@email.com,(555) 901-2345,2024-06-01,$83000,US,37,0
+CUST024,Kevin White,kevin.w@email.com,5559012345,06/01/2024,83000,USA,37,TRUE
+CUST025,laura moore,laura@domain.co,,2024-06-10,$72000,United States,30,Yes
+CUST026,LAURA MOORE,laura@domain.co,(555) 456-7890,June 10 2024,72000,US,30,1
+CUST027,michael harris,michael.h@email.net,5554567890,2024-06-20,$110500,US,44,No
+CUST028,Michael Harris,michael.h@email.net,555-4567,06/20/2024,110500,USA,44,false
+CUST029,natalie wilson,natalie@example.com,(555) 567-8901,2024-07-05,$89000,United States,34,Yes
+CUST030,NATALIE WILSON,natalie@example.com,5555678901,07/05/2024,89000,US,34,1
+CUST031,oscar martin,oscar@invalid..,555-6789,2024-07-15,,US,22,0
+CUST032,Oscar Martin,,,(555) 678-9012,July 15 2024,$98500,USA,,TRUE
+CUST033,patricia young,patricia.y@email.com,5556789012,2024-08-01,$55000,United States,29,Yes
+CUST034,PATRICIA YOUNG,patricia.y@email.com,555-7890,08/01/2024,55000,US,29,1
+CUST035,quincy adams,quincy@domain.org,(555) 789-0123,2024-08-10,$142000,US,51,No
+CUST036,Quincy Adams,quincy@domain.org,5557890123,08/10/2024,142000,USA,51,false
+CUST037,rachel green,rachel.g@email.net,555-8901,,136500,United States,48,yes
+CUST038,RACHEL GREEN,rachel.g@email.net,(555) 890-1234,2024-08-25,$136500,US,48,1
+CUST039,samuel taylor,samuel@example.com,5558901234,2024-09-01,$71000,United States,35,0
+CUST040,Samuel Taylor,samuel@example.com,555-9012,09/01/2024,71000,USA,35,TRUE
+CUST041,tina anderson,tina@invalid.mail.net,(555) 901-2345,2024-09-10,64500,US,31,No
+CUST042,TINA ANDERSON,tina@invalid.mail.net,5559012345,09/10/2024,$64500,USA,31,false
+CUST043,ulysses king,ulysses.k@email.org,555-0123,2024-09-20,$88000,United States,40,true
+CUST044,Ulysses King,ulysses.k@email.org,(555) 012-3456,09/20/2024,88000,US,40,1
+CUST045,victoria scott,victoria@domain.com,5550123456,2024-10-05,,US,38,Yes
+CUST046,VICTORIA SCOTT,,555-1234,October 05 2024,$122000,USA,38,0
+CUST047,william johnson,william.j@email.net,(555) 123-4567,2024-10-15,97000,United States,43,TRUE
+CUST048,William Johnson,william.j@email.net,5551234567,10/15/2024,$97000,US,43,1
+CUST049,xena lewis,xena@example.org,555-2345,2024-11-01,$79000,US,36,No
+CUST050,XENA LEWIS,xena@example.org,(555) 234-5678,11/01/2024,79000,USA,36,false
+CUST051,yolanda rivera,yolanda.r@email.com,5552345678,2024-11-10,$134000,United States,49,yes
+CUST052,Yolanda Rivera,yolanda.r@email.com,555-3456,11/10/2024,134000,US,49,1
+CUST053,zachary bell,zachary@domain.net,(555) 345-6789,,86500,USA,32,0
+CUST054,ZACHARY BELL,zachary@domain.net,5553456789,2024-11-25,$86500,United States,32,TRUE
+CUST055,amelia foster,amelia@example.com,555-4567,2024-12-01,$91000,US,40,Yes
+CUST056,Amelia Foster,amelia@example.com,(555) 456-7890,12/01/2024,91000,USA,40,1
+CUST057,benjamin reed,benjamin.r@invalid..com,5554567890,2024-12-10,$68000,United States,28,no
+CUST058,BENJAMIN REED,benjamin.r@email.net,555-5678,December 10 2024,68000,US,28,false
+CUST059,charlotte hale,charlotte@domain.org,(555) 567-8901,,105500,USA,44,true
+CUST060,Charlotte Hale,charlotte@domain.org,5555678901,2024-12-20,$105500,United States,44,1
+CUST061,david powell,david@example.net,555-6789,2024-01-20,$82000,US,33,0
+CUST062,DAVID POWELL,,,(555) 678-9012,January 20 2024,82000,USA,33,TRUE
+CUST063,emma stone,emma.s@email.com,5556789012,2024-02-05,$77500,United States,30,Yes
+CUST064,Emma Stone,emma.s@email.com,555-7890,02/05/2024,77500,US,30,1
+CUST065,felix hart,felix@invalid@email.co.uk,(555) 789-0123,2024-02-15,,US,26,No
+CUST066,FELIX HART,felix@domain.net,5557890123,02/15/2024,$94000,USA,26,false
+CUST067,grace kelly,grace.k@email.org,555-8901,2024-03-01,$70000,United States,29,yes
+CUST068,Grace Kelly,grace.k@email.org,(555) 890-1234,03/01/2024,70000,US,29,1
+CUST069,henry adams,henry@example.com,5558901234,,120000,USA,41,0
+CUST070,HENRY ADAMS,henry@example.com,555-9012,2024-03-15,$120000,United States,41,TRUE
+CUST071,isabella costa,isabella.c@domain.net,(555) 901-2345,2024-04-01,66000,US,27,No
+CUST072,Isabella Costa,isabella.c@domain.net,5559012345,04/01/2024,$66000,USA,27,false
+CUST073,james park,james@invalid...com,555-0123,2024-04-10,,United States,39,true
+CUST074,JAMES PARK,james@example.org,(555) 012-3456,04/10/2024,$103000,US,39,1
+CUST075,katherine gray,katherine.g@email.com,5550123456,2024-05-05,$75000,USA,31,No
+CUST076,Katherine Gray,katherine.g@email.com,555-1234,(May 05 2024),75000,United States,31,false
+CUST077,leonard stone,leonard@domain.com,(555) 123-4567,2024-05-20,98500,US,46,yes
+CUST078,LEONARD STONE,leonard@domain.com,5551234567,05/20/2024,$98500,USA,46,1
+CUST079,margaret flint,,555-2345,2024-06-05,$53000,United States,24,0
+CUST080,Margaret Flint,margaret.f@email.net,(555) 234-5678,06/05/2024,53000,US,24,TRUE
+CUST081,nathan drake,nathan@example.com,5552345678,2024-06-15,$87500,USA,35,Yes
+CUST082,NATHAN DRAKE,nathan@example.com,555-3456,06/15/2024,87500,United States,35,1
+CUST083,olivia brown,olivia.b@email.org,(555) 345-6789,2024-07-01,,US,32,no
+CUST084,Olivia Brown,olivia.b@email.org,5553456789,07/01/2024,$112000,USA,32,false
+CUST085,peter johnson,peter@invalid..com,555-4567,2024-07-10,$80000,United States,38,true
+CUST086,PETER JOHNSON,peter@domain.net,(555) 456-7890,07/10/2024,80000,US,38,1
+CUST087,quinn savage,quinn@example.com,5554567890,2024-08-01,$92000,USA,42,0
+CUST088,Quinn Savage,quinn@example.com,555-5678,08/01/2024,92000,United States,42,TRUE
+CUST089,rosalie evans,rosalie.e@email.net,(555) 567-8901,,119500,US,47,No
+CUST090,ROSALIE EVANS,rosalie.e@email.net,5555678901,2024-08-20,$119500,USA,47,false
+CUST091,stephen king,stephen@domain.org,555-6789,2024-09-05,$65000,United States,25,yes
+CUST092,Stephen King,stephen@domain.org,(555) 678-9012,09/05/2024,65000,US,25,1
+CUST093,tanya leone,tanya@invalid@email.net,5556789012,2024-09-15,,USA,33,0
+CUST094,TANYA LEONE,tanya@example.org,555-7890,09/15/2024,$114000,United States,33,TRUE
+CUST095,uriah heep,uriah@domain.com,(555) 789-0123,2024-10-01,$81500,US,36,Yes
+CUST096,Uriah Heep,uriah@domain.com,5557890123,10/01/2024,81500,USA,36,1
+CUST097,veronica hart,veronica@example.net,555-8901,2024-10-10,$123000,United States,50,no
+CUST098,VERONICA HART,,,(555) 890-1234,10/10/2024,123000,US,50,false
+CUST099,walter white,walter@invalid..com,5558901234,2024-11-01,$95000,USA,44,true
+CUST100,Walter White,walter@domain.net,555-9012,November 01 2024,95000,United States,44,1

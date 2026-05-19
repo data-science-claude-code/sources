@@ -1,0 +1,31 @@
+product_id,product_name,category,price,cost
+PROD001,Wireless Headphones,Electronics,89.99,35.00
+PROD002,Running Shoes,Sports,65.00,25.00
+PROD003,Winter Jacket,Clothing,120.00,45.00
+PROD004,Desk Lamp,Home,34.99,12.00
+PROD005,Coffee Maker,Home,79.99,28.00
+PROD006,Jeans,Clothing,65.00,20.00
+PROD007,Bluetooth Speaker,Electronics,59.99,22.00
+PROD008,Tennis Racket,Sports,150.00,55.00
+PROD009,Bed Sheets,Home,49.99,15.00
+PROD010,T-Shirt,Clothing,19.99,6.00
+PROD011,USB Cable,Electronics,12.99,3.00
+PROD012,Yoga Mat,Sports,39.99,12.00
+PROD013,Towel Set,Home,29.99,8.00
+PROD014,Sneakers,Clothing,55.00,18.00
+PROD015,Monitor,Electronics,299.99,120.00
+PROD016,Basketball,Sports,45.00,15.00
+PROD017,Sofa Pillow,Home,29.99,8.00
+PROD018,Sweater,Clothing,75.00,25.00
+PROD019,Keyboard,Electronics,79.99,28.00
+PROD020,Dumbbell Set,Sports,120.00,40.00
+PROD021,Curtains,Home,49.99,15.00
+PROD022,Dress Shirt,Clothing,85.00,28.00
+PROD023,USB Hub,Electronics,34.99,12.00
+PROD024,Soccer Ball,Sports,25.00,8.00
+PROD025,Throw Blanket,Home,35.00,10.00
+PROD026,Laptop,Electronics,799.99,350.00
+PROD027,Bicycle,Sports,299.99,120.00
+PROD028,Sofa,Home,899.99,350.00
+PROD029,Baseball Bat,Sports,49.99,18.00
+PROD030,Wall Art,Home,59.99,20.00
