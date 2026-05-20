@@ -1,6 +1,6 @@
 # Data Science with Claude Code
 
-Claude Code를 사용하여 Vide Coding(No Code)으로 단계별로 구성된 데이터 사이언스 실습 프로젝트입니다. 각 태스크는 독립적인 Jupyter 노트북 또는 Python 스크립트로 구성되어 있습니다.
+Claude Code를 사용하여 Vibe Coding(No Code)으로 단계별로 구성된 데이터 사이언스 실습 프로젝트입니다. 각 태스크는 독립적인 Jupyter 노트북 또는 Python 스크립트로 구성되어 있습니다.
 
 ## 실행 환경
 
