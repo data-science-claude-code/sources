@@ -4,8 +4,10 @@
 
 ## 환경
 
+### 🍎 macOS
+
 - **Python**: 3.11.0 (`conda activate ds_env`)
-- **직접 경로**: `/Users/jhkim/opt/anaconda3/envs/ds_env/python`
+- **직접 경로**: `/Users/jhkim/opt/anaconda3/envs/ds_env/bin/python`
 
 ```bash
 # 노트북 실행 (결과를 노트북에 저장)
@@ -16,6 +18,21 @@ conda run -n ds_env python <script.py>
 ```
 
 > 패키지 미설치 시: `conda run -n ds_env pip install scikit-learn lightgbm streamlit optuna`
+
+### 🪟 Windows 11
+
+- **Python**: 3.10.0 (`conda activate agent_env`)
+- **직접 경로**: `C:\Users\<user>\Anaconda3\envs\agent_env\python.exe`
+
+```powershell
+# 노트북 실행 (결과를 노트북에 저장)
+conda run -n agent_env jupyter nbconvert --to notebook --execute --inplace workflows\<notebook>.ipynb
+
+# 스크립트 직접 실행
+conda run -n agent_env python <script.py>
+```
+
+> 패키지 미설치 시: `conda run -n agent_env pip install scikit-learn lightgbm streamlit optuna`
 
 ## 디렉토리 구조
 
@@ -33,10 +50,20 @@ conda run -n ds_env python <script.py>
 df.shape; df.dtypes; df.isnull().sum(); df.describe(); df.head()
 ```
 
-**2. 한글 폰트** — 시각화 시 AppleGothic 적용 필수.
+**2. 한글 폰트** — 시각화 시 OS에 맞는 폰트 적용 필수.
+
+macOS:
 ```python
 import matplotlib.font_manager as fm
 font_prop = fm.FontProperties(fname='/System/Library/Fonts/Supplemental/AppleGothic.ttf')
+plt.rcParams['font.family'] = font_prop.get_name()
+plt.rcParams['axes.unicode_minus'] = False
+```
+
+Windows:
+```python
+import matplotlib.font_manager as fm
+font_prop = fm.FontProperties(fname='C:/Windows/Fonts/malgun.ttf')
 plt.rcParams['font.family'] = font_prop.get_name()
 plt.rcParams['axes.unicode_minus'] = False
 ```
