@@ -1,0 +1,28 @@
+# Data Science with Claude Code - 의존 패키지
+# 설치: pip install -r requirements.txt
+
+# 데이터 처리
+pandas==3.0.3
+numpy==2.4.6
+
+# 시각화
+matplotlib==3.10.9
+seaborn==0.13.2
+
+# 머신러닝
+scikit-learn==1.8.0
+xgboost==3.2.0
+lightgbm==4.6.0
+scipy==1.17.1
+optuna==4.8.0
+
+# 웹 앱
+streamlit==1.57.0
+
+# 문서
+openpyxl
+python-pptx
+
+# 노트북
+jupyter
+nbconvert
