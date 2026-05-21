@@ -43,7 +43,7 @@ conda run -n agent_env python <script.py>
 |------|-----------|
 | 데이터 처리 | pandas, numpy |
 | 시각화 | matplotlib, seaborn |
-| 머신러닝 | scikit-learn, Linear Regression, Randim Forest, SVM, XGboost, Lightgbm, etc |
+| 머신러닝 | scikit-learn, Regression, Randim Forest, XGboost, Lightgbm, etc |
 | 웹 앱 | streamlit |
 | 문서 | openpyxl, python-pptx |
 
