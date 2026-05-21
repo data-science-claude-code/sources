@@ -4,9 +4,18 @@
 
 ## 환경
 
-- **Python**: `/Users/jhkim/opt/anaconda3/bin/python` (3.9.13, conda base)
-- **노트북 실행**: `jupyter nbconvert --to notebook --execute --inplace workflows/<notebook>.ipynb`
-- **패키지 설치**: `conda install scikit-learn xgboost lightgbm streamlit`
+- **Python**: 3.11.0 (`conda activate ds_env`)
+- **직접 경로**: `/Users/jhkim/opt/anaconda3/envs/ds_env/python`
+
+```bash
+# 노트북 실행 (결과를 노트북에 저장)
+conda run -n ds_env jupyter nbconvert --to notebook --execute --inplace workflows/<notebook>.ipynb
+
+# 스크립트 직접 실행
+conda run -n ds_env python <script.py>
+```
+
+> 패키지 미설치 시: `conda run -n ds_env pip install scikit-learn lightgbm streamlit optuna`
 
 ## 디렉토리 구조
 
