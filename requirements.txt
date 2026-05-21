@@ -23,6 +23,3 @@ streamlit==1.57.0
 openpyxl
 python-pptx
 
-# 노트북
-jupyter
-nbconvert
