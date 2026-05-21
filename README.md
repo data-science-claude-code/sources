@@ -43,7 +43,7 @@ conda run -n ds_env python <script.py>
 |------|-----------|
 | 데이터 처리 | pandas, numpy |
 | 시각화 | matplotlib, seaborn |
-| 머신러닝 | scikit-learn, xgboost, lightgbm |
+| 머신러닝 | scikit-learn, regression, Random Forest, xgboost, lightgbm |
 | 웹 앱 | streamlit |
 | 문서 | openpyxl, python-pptx |
 
