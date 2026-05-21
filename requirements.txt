@@ -14,7 +14,6 @@ scikit-learn==1.8.0
 xgboost==3.2.0
 lightgbm==4.6.0
 scipy==1.17.1
-optuna==4.8.0
 
 # 웹 앱
 streamlit==1.57.0
